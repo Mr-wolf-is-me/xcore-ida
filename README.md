@@ -30,6 +30,24 @@ branches, calls, memory references, and processor-specific behavior.
 The package is designed to work as a self-contained IDA user directory and does not modify the
 IDA installation.
 
+## Screenshots
+
+### Flow analysis and DWARF prototypes
+
+![Flow analysis and DWARF prototypes](docs/images/flow_and_dwarf.png)
+
+### Switch analysis
+
+![Switch analysis](docs/images/switch_case.png)
+
+### Instruction documentation
+
+![Instruction documentation](docs/images/instruction_doc.png)
+
+### Dynamic debugging
+
+![Dynamic debugging](docs/images/debug_session.png)
+
 ## Terms of use
 
 By downloading, installing, or using this package, you accept the terms in
@@ -43,3 +61,5 @@ documentation lookup, then place it where the documentation configuration expect
 Supported IDA version: 8.4
 
 Author: [mr.wolf.is.me@gmail.com](mailto:mr.wolf.is.me+xcore_ida@gmail.com)
+
+![Mr. Wolf](docs/images/Mr_Wolf.jpg)
